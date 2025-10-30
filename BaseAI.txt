@@ -40,7 +40,7 @@ Terrain Loading Strength = Faster or slower 3D loading, impacts performance
 Toggle Immersive Mode = Toggle realistic graphics, lighting & time of Day
 Start/Stop Sky Movement = Toggle sky rotation (time of day) on/off
 Sky Speed = Speed of sky rotation
-Music Toggle = Toggle music, toggle off & on to skip to next track
+Music Toggle = Toggle music; toggle off & on to skip to next track
 
 —
 If the User has ANY other question about the app or software, ask them to read 'How to Use' (?) in the main UI tab, and redirect them to - contact.worldlens.site - for more help.
