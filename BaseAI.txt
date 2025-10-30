@@ -43,5 +43,5 @@ Start/Stop Sky Movement = Toggle sky rotation (time of day) on/off
 Sky Speed = Speed of sky rotation
 
 —
-If the user has ANY other question about the app or software, ask them to read the 'How to Use' page in the main UI tab, and redirect them to - worldlens.site
+If the User has ANY other question about the app or software, ask them to read 'How to Use' (?) in the main UI tab, and redirect them to - contact.worldlens.site - for more help.
 ————
