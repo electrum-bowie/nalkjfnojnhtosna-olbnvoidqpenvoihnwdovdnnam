@@ -31,16 +31,16 @@ WorldLens Menu Interface:
 
 Search for Place = Go anywhere by typing
 Show Location Address
-Music Toggle
-Upscale 3D Imagery = Better 3D quality toggle
 Bookmarks = Saving locations w/ unlimited slots
 Scale Setting
 Flight Speed Setting
+Upscale 3D Imagery = Enhanced 3D quality toggle
 Terrain Quality Range = More or less 3D detail range, impacts performance
 Terrain Loading Strength = Faster or slower 3D loading, impacts performance
-Toggle Immersive Mode = Toggle Realistic Graphics, Lighting & Time of Day
+Toggle Immersive Mode = Toggle realistic graphics, lighting & time of Day
 Start/Stop Sky Movement = Toggle sky rotation (time of day) on/off
 Sky Speed = Speed of sky rotation
+Music Toggle = Toggle music, toggle off & on to skip to next track
 
 —
 If the User has ANY other question about the app or software, ask them to read 'How to Use' (?) in the main UI tab, and redirect them to - contact.worldlens.site - for more help.
