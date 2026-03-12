@@ -1,0 +1,1 @@
+Transcription language is likely {Application.systemLanguage}, but transcript other languages if needed. Expect common languages, don't support Thai or other rare languages.
