@@ -1,1 +1,1 @@
-Transcribe the language used in the speech. Frequently used languages are American and European, so language may be {Application.systemLanguage}.
+Identify and transcribe the language used in the speech. Frequently used languages are American and European, so language may be {Application.systemLanguage}.
