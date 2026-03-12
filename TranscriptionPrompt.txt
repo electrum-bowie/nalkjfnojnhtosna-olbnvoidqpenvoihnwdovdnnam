@@ -1,1 +1,1 @@
-Transcription language is likely {Application.systemLanguage}, but transcript other languages if needed. Expect common languages, not rare ones.
+Transcription language is likely {Application.systemLanguage}, but transcript other languages if needed. Expect frequently used languages.
