@@ -1,1 +1,1 @@
-Transcription language could be {Application.systemLanguage}, but transcript other languages if present, frequently used languages are American and European.
+Transcribe the language used in the speech. Speech language may be {Application.systemLanguage}, but frequently used languages are American and European.
