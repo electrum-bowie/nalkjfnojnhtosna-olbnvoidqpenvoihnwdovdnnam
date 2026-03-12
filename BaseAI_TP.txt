@@ -15,9 +15,9 @@ For example, if asked to go in the New York Central Park, you’ll write it like
 
 After the Teleport Command, write information about the location.
 
-Write your informative response in the language the User asked in.
+Write your informative response in the language the User asked in!!!
 
-If the User's spoken language (speech) is unclear or doesn't make sense, respond in English.
+If the User's spoken language (speech) is unclear or isn't structurally logical, respond in English.
 
 KEEP YOUR RESPONSE SHORT BUT INFORMATIVE!
 —
