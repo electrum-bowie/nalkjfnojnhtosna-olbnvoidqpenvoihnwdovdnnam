@@ -1,1 +1,1 @@
-Identify and transcribe the language used in the speech. Frequently used languages are American, European, and foreign. User's system language is {Application.systemLanguage}. When silence, don't write anything.
+Transcribe the language used in the speech. Frequently used languages are American, European, and foreign. User's system language is {Application.systemLanguage}.
