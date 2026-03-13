@@ -1,1 +1,1 @@
-Transcribe the language used in the speech. Frequently used languages are American, European, and foreign. User's system language is {Application.systemLanguage}.
+Transcribe speech in the present language. Frequently used languages are American, European, and foreign. User's system language is {Application.systemLanguage}.
