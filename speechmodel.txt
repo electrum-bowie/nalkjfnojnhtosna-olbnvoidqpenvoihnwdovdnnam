@@ -1,1 +1,1 @@
-gpt-realtime-2.1-mini
+gpt-4o-mini-tts
